@@ -1,0 +1,3502 @@
+[
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0641",
+        "id_requisito": "CJE0642",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0642",
+        "id_requisito": "CJE0643",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0643",
+        "id_requisito": "CJE0644",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0644",
+        "id_requisito": "CJE0648",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0609",
+        "id_requisito": "CJE0464",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0671",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0398",
+        "id_requisito": "CJE0397",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0399",
+        "id_requisito": "CJE0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0314",
+        "id_requisito": "CJE0395",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0395",
+        "id_requisito": "CJE0644",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0644",
+        "id_requisito": "CJE0640",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0640",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0508",
+        "id_requisito": "CJE0249",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0249",
+        "id_requisito": "CCA0277",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CCA0277",
+        "id_requisito": "CJE0397",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0397",
+        "id_requisito": "CJE0393",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0393",
+        "id_requisito": "CCA0258",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CCA0258",
+        "id_requisito": "CJE0622",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0622",
+        "id_requisito": "CJE0615",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0615",
+        "id_requisito": "CJE0609",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0609",
+        "id_requisito": "CJE0518",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0518",
+        "id_requisito": "CJE0610",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0610",
+        "id_requisito": "CJE0399",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0399",
+        "id_requisito": "CJE0642",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0642",
+        "id_requisito": "CJE0629",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0606",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0678",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0678",
+        "id_requisito": "CJE0396",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0396",
+        "id_requisito": "CJE0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0394",
+        "id_requisito": "CJE0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0398",
+        "id_requisito": "CJE0671",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0671",
+        "id_requisito": "CJE0641",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0641",
+        "id_requisito": "CJE0591",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0591",
+        "id_requisito": "CJE0625",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0625",
+        "id_requisito": "CJE0464",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0464",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0648",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0648",
+        "id_requisito": "CJE0330",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27100",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0672",
+        "id_requisito": "CJE0640",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CCA0289",
+        "id_requisito": "CCA0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CCA0295",
+        "id_requisito": "CCA0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0317",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0349",
+        "id_requisito": "CRP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0168",
+        "id_requisito": "CRP0354",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0354",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0171",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0171",
+        "id_requisito": "CRP0314",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0314",
+        "id_requisito": "CRP0353",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0353",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0359",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0421",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0421",
+        "id_requisito": "CRP0422",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0422",
+        "id_requisito": "CRP0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0322",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0325",
+        "id_requisito": "CRP0292",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0292",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0423",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0435",
+        "id_requisito": "CRP0559",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0559",
+        "id_requisito": "CRP0297",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0558",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0558",
+        "id_requisito": "CRP0424",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0350",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0350",
+        "id_requisito": "CRP0327",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0425",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0425",
+        "id_requisito": "CRP0426",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0360",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0285",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0440",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0349",
+        "id_requisito": "CRP0350",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0350",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0426",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0359",
+        "id_requisito": "CRP0558",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0558",
+        "id_requisito": "CRP0425",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0425",
+        "id_requisito": "CRP0327",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0423",
+        "id_requisito": "CRP0424",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0354",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0354",
+        "id_requisito": "CRP0559",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0559",
+        "id_requisito": "CRP0422",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0422",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0435",
+        "id_requisito": "CRP0360",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0325",
+        "id_requisito": "CRP0421",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0421",
+        "id_requisito": "CRP0353",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0353",
+        "id_requisito": "CRP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0168",
+        "id_requisito": "CRP0171",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0171",
+        "id_requisito": "CRP0285",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0285",
+        "id_requisito": "CRP0297",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0314",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0314",
+        "id_requisito": "CRP0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "502",
+        "id_disciplina": "CRP0322",
+        "id_requisito": "CRP0292",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CCA0289",
+        "id_requisito": "CCA0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CCA0295",
+        "id_requisito": "CCA0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0317",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0423",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0325",
+        "id_requisito": "CRP0350",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0350",
+        "id_requisito": "CRP0422",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0422",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0314",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0314",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0359",
+        "id_requisito": "CRP0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0322",
+        "id_requisito": "CRP0171",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0171",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0435",
+        "id_requisito": "CRP0559",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0559",
+        "id_requisito": "CRP0421",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0421",
+        "id_requisito": "CRP0292",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0292",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0349",
+        "id_requisito": "CRP0354",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0354",
+        "id_requisito": "CRP0327",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0297",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0168",
+        "id_requisito": "CRP0353",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0353",
+        "id_requisito": "CRP0426",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0285",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0285",
+        "id_requisito": "CRP0558",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0558",
+        "id_requisito": "CRP0424",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0360",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0425",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0440",
+        "id_requisito": "CRP0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0322",
+        "id_requisito": "CRP0314",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0314",
+        "id_requisito": "CRP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0168",
+        "id_requisito": "CRP0350",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0350",
+        "id_requisito": "CRP0424",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0424",
+        "id_requisito": "CRP0297",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0297",
+        "id_requisito": "CRP0426",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0426",
+        "id_requisito": "CRP0292",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0292",
+        "id_requisito": "CRP0421",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0421",
+        "id_requisito": "CRP0422",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0422",
+        "id_requisito": "CRP0423",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0423",
+        "id_requisito": "CRP0425",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0425",
+        "id_requisito": "CRP0326",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0326",
+        "id_requisito": "CRP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0325",
+        "id_requisito": "CRP0435",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0435",
+        "id_requisito": "CRP0354",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0354",
+        "id_requisito": "CRP0327",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0327",
+        "id_requisito": "CRP0349",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0349",
+        "id_requisito": "CRP0285",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0285",
+        "id_requisito": "CRP0359",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0359",
+        "id_requisito": "CRP0353",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0353",
+        "id_requisito": "CRP0559",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0559",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0360",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0360",
+        "id_requisito": "CRP0171",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "504",
+        "id_disciplina": "CRP0171",
+        "id_requisito": "CRP0558",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0590",
+        "id_requisito": "CJE0587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0649",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0602",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0524",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0526",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0603",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0532",
+        "id_requisito": "CJE0603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0533",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0601",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0604",
+        "id_requisito": "CJE0533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0533",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0600",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0651",
+        "id_requisito": "CJE0603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0603",
+        "id_requisito": "CJE0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0655",
+        "id_requisito": "CJE0533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0533",
+        "id_requisito": "CJE0469",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0469",
+        "id_requisito": "CJE0657",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0657",
+        "id_requisito": "CJE0599",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0599",
+        "id_requisito": "CJE0517",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0517",
+        "id_requisito": "CJE0587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0587",
+        "id_requisito": "CJE0649",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0649",
+        "id_requisito": "CJE0601",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0601",
+        "id_requisito": "CJE0518",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0518",
+        "id_requisito": "CJE0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0506",
+        "id_requisito": "CJE0586",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0590",
+        "id_requisito": "CJE0442",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0442",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0602",
+        "id_requisito": "CJE0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0660",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0585",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0600",
+        "id_requisito": "CJE0662",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0662",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0508",
+        "id_requisito": "CJE0502",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0502",
+        "id_requisito": "CJE0629",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0615",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0615",
+        "id_requisito": "CJE0524",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0524",
+        "id_requisito": "CJE0532",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0532",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0526",
+        "id_requisito": "CJE0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0656",
+        "id_requisito": "CJE0653",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0653",
+        "id_requisito": "CJE0604",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0604",
+        "id_requisito": "CJE0658",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0335",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0661",
+        "id_requisito": "CJE0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0489",
+        "id_requisito": "CJE0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0590",
+        "id_requisito": "CJE0587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0649",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0602",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0524",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0526",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0603",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0532",
+        "id_requisito": "CJE0603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0533",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0601",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0604",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0526",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0600",
+        "id_requisito": "CJE0533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0651",
+        "id_requisito": "CJE0442",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0442",
+        "id_requisito": "CJE0653",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0653",
+        "id_requisito": "CJE0604",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0604",
+        "id_requisito": "CJE0502",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0502",
+        "id_requisito": "CJE0615",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0615",
+        "id_requisito": "CJE0590",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0590",
+        "id_requisito": "CJE0517",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0517",
+        "id_requisito": "CJE0524",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0524",
+        "id_requisito": "CJE0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0660",
+        "id_requisito": "CJE0532",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0532",
+        "id_requisito": "CJE0603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0603",
+        "id_requisito": "CJE0657",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0657",
+        "id_requisito": "CJE0629",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0655",
+        "id_requisito": "CJE0587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0587",
+        "id_requisito": "CJE0586",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0586",
+        "id_requisito": "CJE0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0656",
+        "id_requisito": "CJE0518",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0518",
+        "id_requisito": "CJE0658",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0658",
+        "id_requisito": "CJE0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0506",
+        "id_requisito": "CJE0601",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0601",
+        "id_requisito": "CJE0602",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0602",
+        "id_requisito": "CJE0600",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0600",
+        "id_requisito": "CJE0469",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0469",
+        "id_requisito": "CJE0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0585",
+        "id_requisito": "CJE0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0526",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0508",
+        "id_requisito": "CJE0599",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0599",
+        "id_requisito": "CJE0649",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0649",
+        "id_requisito": "CJE0533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0533",
+        "id_requisito": "CJE0662",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0335",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0661",
+        "id_requisito": "CJE0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27120",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CJE0489",
+        "id_requisito": "CJE0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CCA0289",
+        "id_requisito": "CCA0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CCA0295",
+        "id_requisito": "CCA0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0533",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0538",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0539",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0544",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0547",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0305",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0548",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0441",
+        "id_requisito": "CRP0542",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0542",
+        "id_requisito": "CRP0547",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0547",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0545",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0391",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0534",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0534",
+        "id_requisito": "CRP0305",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0549",
+        "id_requisito": "CRP0544",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0544",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0534",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0534",
+        "id_requisito": "CRP0541",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0541",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0441",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0536",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0550",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0441",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0547",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0547",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0538",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0391",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0545",
+        "id_requisito": "CRP0542",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0542",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0536",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0536",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0305",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0289",
+        "id_requisito": "CCA0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0295",
+        "id_requisito": "CCA0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0533",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0538",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0539",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0544",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0547",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0305",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0548",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0391",
+        "id_requisito": "CRP0542",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0542",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0547",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0547",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0545",
+        "id_requisito": "CRP0534",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0534",
+        "id_requisito": "CRP0305",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0305",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0549",
+        "id_requisito": "CRP0544",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0544",
+        "id_requisito": "CRP0534",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0534",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0541",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0541",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0441",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0536",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0536",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0550",
+        "id_requisito": "CRP0391",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0391",
+        "id_requisito": "CRP0387",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0387",
+        "id_requisito": "CRP0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0535",
+        "id_requisito": "CRP0538",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0538",
+        "id_requisito": "CRP0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0398",
+        "id_requisito": "CRP0531",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0531",
+        "id_requisito": "CRP0441",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0441",
+        "id_requisito": "CRP0429",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0429",
+        "id_requisito": "CRP0491",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0491",
+        "id_requisito": "CRP0542",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0542",
+        "id_requisito": "CRP0543",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0543",
+        "id_requisito": "CRP0545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0545",
+        "id_requisito": "CRP0428",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0428",
+        "id_requisito": "CRP0536",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0536",
+        "id_requisito": "CRP0389",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0389",
+        "id_requisito": "CRP0305",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0305",
+        "id_requisito": "CRP0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27110",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CRP0394",
+        "id_requisito": "CRP0547",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0273",
+        "id_requisito": "CBD0185",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0185",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0215",
+        "id_requisito": "CBD0312",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0312",
+        "id_requisito": "CBD0275",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0275",
+        "id_requisito": "CBD0260",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0260",
+        "id_requisito": "CBD0324",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0324",
+        "id_requisito": "CBD0223",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0223",
+        "id_requisito": "CBD0272",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0272",
+        "id_requisito": "CBD0318",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0318",
+        "id_requisito": "CBD0295",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0295",
+        "id_requisito": "CBD0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0288",
+        "id_requisito": "CBD0294",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0294",
+        "id_requisito": "CBD0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0322",
+        "id_requisito": "CBD0262",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0234",
+        "id_requisito": "CBD0263",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0263",
+        "id_requisito": "CBD0295",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0295",
+        "id_requisito": "CBD0272",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0272",
+        "id_requisito": "CBD0264",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0264",
+        "id_requisito": "CBD0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0275",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0275",
+        "id_requisito": "CBD0185",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0185",
+        "id_requisito": "CBD0223",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0223",
+        "id_requisito": "CBD0229",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0229",
+        "id_requisito": "CBD0262",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0262",
+        "id_requisito": "CBD0268",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0268",
+        "id_requisito": "CBD0244",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0244",
+        "id_requisito": "CBD0294",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0294",
+        "id_requisito": "CBD0260",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0260",
+        "id_requisito": "CBD0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0322",
+        "id_requisito": "CBD0324",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0324",
+        "id_requisito": "CBD0318",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0318",
+        "id_requisito": "CBD0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0288",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0215",
+        "id_requisito": "CBD0284",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0284",
+        "id_requisito": "CBD0312",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0312",
+        "id_requisito": "CBD0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0265",
+        "id_requisito": "CBD0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0266",
+        "id_requisito": "CBD0265",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "2",
+        "id_disciplina": "CBD0267",
+        "id_requisito": "CBD0234",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0273",
+        "id_requisito": "CBD0223",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0223",
+        "id_requisito": "CBD0185",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0185",
+        "id_requisito": "CBD0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0322",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0215",
+        "id_requisito": "CBD0275",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0275",
+        "id_requisito": "CBD0295",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0295",
+        "id_requisito": "CBD0324",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0324",
+        "id_requisito": "CBD0260",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0260",
+        "id_requisito": "CBD0272",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0272",
+        "id_requisito": "CBD0294",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0294",
+        "id_requisito": "CBD0318",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0318",
+        "id_requisito": "CBD0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0288",
+        "id_requisito": "CBD0262",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0262",
+        "id_requisito": "CBD0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0312",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0234",
+        "id_requisito": "CBD0268",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0268",
+        "id_requisito": "CBD0244",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0244",
+        "id_requisito": "CBD0229",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0229",
+        "id_requisito": "CBD0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0289",
+        "id_requisito": "CBD0223",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0223",
+        "id_requisito": "CBD0312",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0312",
+        "id_requisito": "CBD0272",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0272",
+        "id_requisito": "CBD0318",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0318",
+        "id_requisito": "CBD0263",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0263",
+        "id_requisito": "CBD0185",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0185",
+        "id_requisito": "CBD0264",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0264",
+        "id_requisito": "CBD0294",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0294",
+        "id_requisito": "CBD0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0322",
+        "id_requisito": "CBD0262",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0262",
+        "id_requisito": "CBD0215",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0215",
+        "id_requisito": "CBD0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0288",
+        "id_requisito": "CBD0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0216",
+        "id_requisito": "CBD0324",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0324",
+        "id_requisito": "CBD0295",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0295",
+        "id_requisito": "CBD0260",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0260",
+        "id_requisito": "CBD0284",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0284",
+        "id_requisito": "CBD0275",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0265",
+        "id_requisito": "CBD0289",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0266",
+        "id_requisito": "CBD0265",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27502",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CBD0267",
+        "id_requisito": "CBD0234",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0658",
+        "id_requisito": "CTR0713",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0660",
+        "id_requisito": "CTR0652",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0664",
+        "id_requisito": "CTR0813",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0655",
+        "id_requisito": "CTR0650",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0656",
+        "id_requisito": "CTR0651",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0666",
+        "id_requisito": "CTR0661",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0674",
+        "id_requisito": "CTR0669",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0669",
+        "id_requisito": "CTR0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0811",
+        "id_requisito": "CTR0674",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0812",
+        "id_requisito": "CTR0811",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0663",
+        "id_requisito": "CTR0658",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0697",
+        "id_requisito": "CTR0689",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0807",
+        "id_requisito": "CTR0696",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0668",
+        "id_requisito": "CTR0664",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0698",
+        "id_requisito": "CTR0660",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0699",
+        "id_requisito": "CTR0669",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0667",
+        "id_requisito": "CTR0662",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0679",
+        "id_requisito": "CTR0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0680",
+        "id_requisito": "CTR0665",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0687",
+        "id_requisito": "CTR0668",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0688",
+        "id_requisito": "CTR0666",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0705",
+        "id_requisito": "CTR0671",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0814",
+        "id_requisito": "CTR0816",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0694",
+        "id_requisito": "CTR0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0703",
+        "id_requisito": "CTR0666",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0712",
+        "id_requisito": "CTR0671",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0815",
+        "id_requisito": "CTR0816",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0690",
+        "id_requisito": "CTR0654",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27021",
+        "codigo_habilitacao": "0",
+        "id_disciplina": "CTR0715",
+        "id_requisito": "CTR0669",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0287",
+        "id_requisito": "CCA0282",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0289",
+        "id_requisito": "CCA0288",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0296",
+        "id_requisito": "CCA0287",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0305",
+        "id_requisito": "CCA0304",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0308",
+        "id_requisito": "CCA0316",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27570",
+        "codigo_habilitacao": "4",
+        "id_disciplina": "CCA0307",
+        "id_requisito": "CCA0308",
+        "forca_requisito": "forte"
+    }
+]

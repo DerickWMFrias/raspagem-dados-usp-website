@@ -1,0 +1,3502 @@
+[
+    {
+        "codigo_curriculo": "86551",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5513",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86551",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5544",
+        "id_requisito": "ACH5521",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86551",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5521",
+        "id_requisito": "ACH5541",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86551",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5526",
+        "id_requisito": "ACH5521",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86551",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5567",
+        "id_requisito": "ACH5535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0504",
+        "id_requisito": "ACH0563",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0505",
+        "id_requisito": "ACH0504",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0524",
+        "id_requisito": "ACH0523",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0605",
+        "id_requisito": "ACH0505",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0526",
+        "id_requisito": "ACH0525",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0565",
+        "id_requisito": "ACH0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ou",
+        "id_requisito": "ACH0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0517",
+        "id_requisito": "ACH0526",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0575",
+        "id_requisito": "ACH0585",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ou",
+        "id_requisito": "ACH0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0568",
+        "id_requisito": "ACH0577",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0515",
+        "id_requisito": "ACH0514",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0536",
+        "id_requisito": "ACH0535",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0558",
+        "id_requisito": "ACH0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0596",
+        "id_requisito": "ACH0505",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0556",
+        "id_requisito": "ACH0555",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0566",
+        "id_requisito": "ACH0565",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0617",
+        "id_requisito": "ACH0506",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0506",
+        "id_requisito": "ACH0635",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0576",
+        "id_requisito": "ACH0575",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86050",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH0518",
+        "id_requisito": "ACH0517",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1015",
+        "id_requisito": "ACH1012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1023",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1014",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1024",
+        "id_requisito": "ACH1002",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1053",
+        "id_requisito": "ACH1012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1056",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1133",
+        "id_requisito": "ACH1002",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1034",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1014",
+        "id_requisito": "ACH1023",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1004",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1026",
+        "id_requisito": "ACH1023",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1023",
+        "id_requisito": "ACH1034",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1054",
+        "id_requisito": "ACH1043",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1085",
+        "id_requisito": "ACH1053",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1115",
+        "id_requisito": "ACH1023",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1055",
+        "id_requisito": "ACH1074",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1066",
+        "id_requisito": "ACH1074",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1067",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1027",
+        "id_requisito": "ACH1015",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1015",
+        "id_requisito": "ACH1085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1036",
+        "id_requisito": "ACH1085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1047",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1014",
+        "id_requisito": "ACH1021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH1088",
+        "id_requisito": "ACH1087",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1015",
+        "id_requisito": "ACH1012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1023",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1014",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1024",
+        "id_requisito": "ACH1002",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1053",
+        "id_requisito": "ACH1012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1056",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1133",
+        "id_requisito": "ACH1002",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1034",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1014",
+        "id_requisito": "ACH1023",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1004",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1026",
+        "id_requisito": "ACH1023",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1023",
+        "id_requisito": "ACH1034",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1054",
+        "id_requisito": "ACH1043",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1085",
+        "id_requisito": "ACH1053",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1006",
+        "id_requisito": "ACH1033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1066",
+        "id_requisito": "ACH1074",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1067",
+        "id_requisito": "ACH1041",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1027",
+        "id_requisito": "ACH1015",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1015",
+        "id_requisito": "ACH1085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1036",
+        "id_requisito": "ACH1085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1044",
+        "id_requisito": "ACH1033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1047",
+        "id_requisito": "ACH1021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1021",
+        "id_requisito": "ACH1014",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86100",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1088",
+        "id_requisito": "ACH1087",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH1587",
+        "id_requisito": "ACH1603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH1558",
+        "id_requisito": "ACH1587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH1586",
+        "id_requisito": "ACH1511",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH1511",
+        "id_requisito": "ACH1533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1587",
+        "id_requisito": "ACH1603",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1558",
+        "id_requisito": "ACH1587",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1586",
+        "id_requisito": "ACH1511",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86150",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH1511",
+        "id_requisito": "ACH1533",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2012",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2003",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2034",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2053",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH2012",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2026",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2036",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2044",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2055",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2016",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2025",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2043",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2147",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2044",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0042",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2006",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2008",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2027",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2017",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2018",
+        "id_requisito": "ACH2017",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2107",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2007",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2066",
+        "id_requisito": "ACH2025",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2067",
+        "id_requisito": "ACH2014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2014",
+        "id_requisito": "ACH2027",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2076",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2077",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2087",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2043",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2117",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2023",
+        "id_requisito": "ACH2033",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2127",
+        "id_requisito": "ACH2014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2014",
+        "id_requisito": "ACH2027",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2137",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2157",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2167",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2177",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2187",
+        "id_requisito": "ACH2016",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2016",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2197",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2207",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2011",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2217",
+        "id_requisito": "ACH2063",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "MAC0471",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "MAC0475",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "MAC0546",
+        "id_requisito": "MAC0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2028",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2037",
+        "id_requisito": "ACH2036",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2038",
+        "id_requisito": "ACH2026",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2048",
+        "id_requisito": "ACH2026",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2068",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2086",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2096",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2044",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2098",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2106",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2003",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2108",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2118",
+        "id_requisito": "ACH2016",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2128",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2033",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2138",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2148",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2158",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2001",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2012",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2003",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2034",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2053",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH2012",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2026",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2036",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2044",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2055",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2016",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2025",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2043",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2147",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2044",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH0042",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2006",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2008",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2027",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2017",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2018",
+        "id_requisito": "ACH2017",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2107",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2007",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2066",
+        "id_requisito": "ACH2025",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2067",
+        "id_requisito": "ACH2014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2014",
+        "id_requisito": "ACH2027",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2076",
+        "id_requisito": "ACH2034",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2077",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2087",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2043",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2117",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2023",
+        "id_requisito": "ACH2033",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2127",
+        "id_requisito": "ACH2014",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2014",
+        "id_requisito": "ACH2027",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2137",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2157",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2167",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2177",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2187",
+        "id_requisito": "ACH2016",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2016",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2197",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2207",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2011",
+        "id_requisito": "ACH2023",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2217",
+        "id_requisito": "ACH2063",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "MAC0471",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "MAC0475",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "MAC0546",
+        "id_requisito": "MAC0216",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2028",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2037",
+        "id_requisito": "ACH2036",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2038",
+        "id_requisito": "ACH2026",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2048",
+        "id_requisito": "ACH2026",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2068",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2005",
+        "id_requisito": "ACH2006",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2086",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2096",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2044",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2098",
+        "id_requisito": "ACH2004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2004",
+        "id_requisito": "ACH2013",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2106",
+        "id_requisito": "ACH2003",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2003",
+        "id_requisito": "ACH2005",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2108",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2118",
+        "id_requisito": "ACH2016",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2128",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2024",
+        "id_requisito": "ACH2033",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2138",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2148",
+        "id_requisito": "ACH2024",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2158",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH2001",
+        "id_requisito": "ACH2053",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "102",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "102",
+        "id_disciplina": "ACH2012",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "102",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "102",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH2012",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH2002",
+        "id_requisito": "ACH2001",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86200",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH2033",
+        "id_requisito": "ACH2011",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2512",
+        "id_requisito": "ACH2511",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2524",
+        "id_requisito": "ACH2523",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2557",
+        "id_requisito": "ACH2555",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2583",
+        "id_requisito": "ACH2532",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2525",
+        "id_requisito": "ACH2524",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2545",
+        "id_requisito": "ACH2544",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2637",
+        "id_requisito": "ACH2555",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2555",
+        "id_requisito": "ACH2557",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2515",
+        "id_requisito": "ACH2513",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2516",
+        "id_requisito": "ACH2595",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2648",
+        "id_requisito": "ACH0021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0021",
+        "id_requisito": "ACH2637",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2656",
+        "id_requisito": "ACH2564",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2564",
+        "id_requisito": "ACH2595",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2595",
+        "id_requisito": "ACH2513",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2513",
+        "id_requisito": "ACH2545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2568",
+        "id_requisito": "ACH2647",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2598",
+        "id_requisito": "ACH2537",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2607",
+        "id_requisito": "ACH2555",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2555",
+        "id_requisito": "ACH2557",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2657",
+        "id_requisito": "ACH2555",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2555",
+        "id_requisito": "ACH2557",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2818",
+        "id_requisito": "ACH2877",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH2868",
+        "id_requisito": "ACH2867",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86250",
+        "codigo_habilitacao": "102",
+        "id_disciplina": "ACH2512",
+        "id_requisito": "ACH2511",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3043",
+        "id_requisito": "ACH3022",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3075",
+        "id_requisito": "ACH3047",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3108",
+        "id_requisito": "ACH3025",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3027",
+        "id_requisito": "ACH3003",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3255",
+        "id_requisito": "ACH3024",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3256",
+        "id_requisito": "ACH3255",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3068",
+        "id_requisito": "ACH3067",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3258",
+        "id_requisito": "ACH3257",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3147",
+        "id_requisito": "ACH3004",
+        "forca_requisito": "fraco"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3018",
+        "id_requisito": "ACH3037",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3048",
+        "id_requisito": "ACH3013",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3013",
+        "id_requisito": "ACH3055",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3055",
+        "id_requisito": "ACH3056",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3085",
+        "id_requisito": "ACH3047",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3013",
+        "id_requisito": "ACH3011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "203",
+        "id_disciplina": "ACH3088",
+        "id_requisito": "ACH3085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86300",
+        "codigo_habilitacao": "103",
+        "id_disciplina": "ACH3043",
+        "id_requisito": "ACH3022",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3524",
+        "id_requisito": "ACH3521",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3545",
+        "id_requisito": "ACH3561",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3546",
+        "id_requisito": "ACH3561",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3561",
+        "id_requisito": "ACH3545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3537",
+        "id_requisito": "ACH0042",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH3538",
+        "id_requisito": "ACH0042",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH0042",
+        "id_requisito": "ACH3537",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3524",
+        "id_requisito": "ACH3521",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3545",
+        "id_requisito": "ACH3561",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3546",
+        "id_requisito": "ACH3561",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3561",
+        "id_requisito": "ACH3545",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3537",
+        "id_requisito": "ACH0042",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH3538",
+        "id_requisito": "ACH0042",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86350",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH0042",
+        "id_requisito": "ACH3537",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4013",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4033",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4053",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4073",
+        "id_requisito": "ACH4033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4093",
+        "id_requisito": "ACH4032",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4004",
+        "id_requisito": "ACH4063",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4014",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4005",
+        "id_requisito": "ACH4004",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4004",
+        "id_requisito": "ACH4093",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4015",
+        "id_requisito": "ACH4014",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4014",
+        "id_requisito": "ACH4033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4038",
+        "id_requisito": "ACH4004",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4026",
+        "id_requisito": "ACH4005",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4028",
+        "id_requisito": "ACH4093",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4096",
+        "id_requisito": "ACH4043",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4043",
+        "id_requisito": "ACH4012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4012",
+        "id_requisito": "ACH4011",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4096",
+        "id_requisito": "ACH4034",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4016",
+        "id_requisito": "ACH4096",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4027",
+        "id_requisito": "ACH4093",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4093",
+        "id_requisito": "ACH4015",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4036",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4047",
+        "id_requisito": "ACH4096",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4096",
+        "id_requisito": "ACH4006",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4127",
+        "id_requisito": "ACH4126",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4147",
+        "id_requisito": "ACH4004",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4004",
+        "id_requisito": "ACH4005",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4005",
+        "id_requisito": "ACH4085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4085",
+        "id_requisito": "ACH4095",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4007",
+        "id_requisito": "ACH4006",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4006",
+        "id_requisito": "ACH4005",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4017",
+        "id_requisito": "ACH4016",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4067",
+        "id_requisito": "ACH4157",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4116",
+        "id_requisito": "ACH4073",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4128",
+        "id_requisito": "ACH4127",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4113",
+        "id_requisito": "ACH4033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4123",
+        "id_requisito": "ACH4012",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4146",
+        "id_requisito": "ACH4093",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4196",
+        "id_requisito": "ACH4085",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4216",
+        "id_requisito": "ACH4033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4117",
+        "id_requisito": "ACH4064",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4206",
+        "id_requisito": "ACH4043",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4043",
+        "id_requisito": "ACH4096",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4138",
+        "id_requisito": "ACH4157",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4157",
+        "id_requisito": "ACH4135",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4135",
+        "id_requisito": "ACH4226",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH4013",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86400",
+        "codigo_habilitacao": "104",
+        "id_disciplina": "ACH4033",
+        "id_requisito": "ACH4021",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86450",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH4567",
+        "id_requisito": "ACH4596",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86450",
+        "codigo_habilitacao": "202",
+        "id_disciplina": "ACH4568",
+        "id_requisito": "ACH4567",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86450",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4567",
+        "id_requisito": "ACH4596",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86450",
+        "codigo_habilitacao": "204",
+        "id_disciplina": "ACH4568",
+        "id_requisito": "ACH4567",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "BMF0403",
+        "id_requisito": "ACH5002",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5002",
+        "id_requisito": "ACH5003",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5003",
+        "id_requisito": "ACH5004",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "BMP0219",
+        "id_requisito": "BMI0469",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5033",
+        "id_requisito": "ACH8632",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5035",
+        "id_requisito": "ACH5044",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5036",
+        "id_requisito": "ACH5035",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5036",
+        "id_requisito": "ACH5033",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5006",
+        "id_requisito": "ACH5035",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5028",
+        "id_requisito": "ACH5027",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5037",
+        "id_requisito": "ACH5006",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5006",
+        "id_requisito": "ACH5036",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5019",
+        "id_requisito": "ACH5028",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5038",
+        "id_requisito": "ACH5016",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5016",
+        "id_requisito": "ACH5019",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5049",
+        "id_requisito": "ACH5019",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "BMC0146",
+        "id_requisito": "ACH5043",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "86501",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "ACH5043",
+        "id_requisito": "ACH5044",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0660",
+        "id_requisito": "CAC0645",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0645",
+        "id_requisito": "CAC0654",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0654",
+        "id_requisito": "CAC0653",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0653",
+        "id_requisito": "CAC0646",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0709",
+        "id_requisito": "CAC0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0655",
+        "id_requisito": "CAC0658",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0658",
+        "id_requisito": "CAC0642",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0642",
+        "id_requisito": "CAC0657",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0657",
+        "id_requisito": "CAC0644",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0644",
+        "id_requisito": "CAC0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0656",
+        "id_requisito": "CAC0641",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0641",
+        "id_requisito": "CAC0643",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0715",
+        "id_requisito": "CAC0714",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0728",
+        "id_requisito": "CAC0641",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0641",
+        "id_requisito": "CAC0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0729",
+        "id_requisito": "CAC0643",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0643",
+        "id_requisito": "CAC0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0730",
+        "id_requisito": "CAC0657",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0657",
+        "id_requisito": "CAC0644",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAC0676",
+        "id_requisito": "CAC0675",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0660",
+        "id_requisito": "CAC0646",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0646",
+        "id_requisito": "CAC0653",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0653",
+        "id_requisito": "CAC0654",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0654",
+        "id_requisito": "CAC0645",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0639",
+        "id_requisito": "CAC0611",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0697",
+        "id_requisito": "CAC0657",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0657",
+        "id_requisito": "CAC0641",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0641",
+        "id_requisito": "CAC0658",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0658",
+        "id_requisito": "CAC0644",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0644",
+        "id_requisito": "CAC0656",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0656",
+        "id_requisito": "CAC0642",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0642",
+        "id_requisito": "CAC0655",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0655",
+        "id_requisito": "CAC0643",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0711",
+        "id_requisito": "CAC0710",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27223",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAC0676",
+        "id_requisito": "CAC0675",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0321",
+        "id_requisito": "CAP0200",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0200",
+        "id_requisito": "CAP0252",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0252",
+        "id_requisito": "CAP0246",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0246",
+        "id_requisito": "CAP0173",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0173",
+        "id_requisito": "CAP0178",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0178",
+        "id_requisito": "CAP0233",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0233",
+        "id_requisito": "CAP0179",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0179",
+        "id_requisito": "CAP0182",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0182",
+        "id_requisito": "CAP0320",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0320",
+        "id_requisito": "CAP0148",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0148",
+        "id_requisito": "CAP0181",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0181",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0286",
+        "id_requisito": "CAP0203",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0203",
+        "id_requisito": "CAP0240",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0240",
+        "id_requisito": "CAP0183",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0183",
+        "id_requisito": "CAP0204",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0204",
+        "id_requisito": "CAP0301",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0301",
+        "id_requisito": "CAP0224",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "200",
+        "id_disciplina": "CAP0224",
+        "id_requisito": "CAP0207",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0168",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0169",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0286",
+        "id_requisito": "CAP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0291",
+        "id_requisito": "CAP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0168",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0286",
+        "id_requisito": "CAP0169",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0324",
+        "id_requisito": "CAP0323",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0299",
+        "id_requisito": "CAP0291",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0291",
+        "id_requisito": "CAP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0168",
+        "id_requisito": "CAP0169",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0169",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0326",
+        "id_requisito": "CAP0246",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0246",
+        "id_requisito": "CAP0240",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0240",
+        "id_requisito": "CAP0323",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0323",
+        "id_requisito": "CAP0286",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0286",
+        "id_requisito": "CAP0325",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0325",
+        "id_requisito": "EDM0402",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "EDM0402",
+        "id_requisito": "CAP0178",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0178",
+        "id_requisito": "4800400",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "4800400",
+        "id_requisito": "CAP0148",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0148",
+        "id_requisito": "CAP0322",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0322",
+        "id_requisito": "CAP0324",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0324",
+        "id_requisito": "CAP0168",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0168",
+        "id_requisito": "CAP0233",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0233",
+        "id_requisito": "CAP0179",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0179",
+        "id_requisito": "CAP0200",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0200",
+        "id_requisito": "CAP0207",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0207",
+        "id_requisito": "CAP0203",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0203",
+        "id_requisito": "CAP0291",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0291",
+        "id_requisito": "CAP0204",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0204",
+        "id_requisito": "CAP0181",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0181",
+        "id_requisito": "CAP0252",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0252",
+        "id_requisito": "EDA0463",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "EDA0463",
+        "id_requisito": "CAP0173",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0173",
+        "id_requisito": "CAP0182",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0182",
+        "id_requisito": "CAP0169",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0169",
+        "id_requisito": "CAP0183",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0183",
+        "id_requisito": "CAP0224",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27302",
+        "codigo_habilitacao": "300",
+        "id_disciplina": "CAP0224",
+        "id_requisito": "CAP0301",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0609",
+        "id_requisito": "CJE0464",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0335",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0398",
+        "id_requisito": "CJE0397",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0399",
+        "id_requisito": "CJE0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0643",
+        "id_requisito": "CJE0636",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0314",
+        "id_requisito": "CCA0258",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CCA0258",
+        "id_requisito": "CCA0277",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CCA0277",
+        "id_requisito": "CJE0249",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0249",
+        "id_requisito": "CJE0330",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0330",
+        "id_requisito": "CJE0335",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0335",
+        "id_requisito": "CJE0393",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0393",
+        "id_requisito": "CJE0394",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0394",
+        "id_requisito": "CJE0395",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0395",
+        "id_requisito": "CJE0396",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0396",
+        "id_requisito": "CJE0397",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0397",
+        "id_requisito": "CJE0398",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0398",
+        "id_requisito": "CJE0399",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0399",
+        "id_requisito": "CJE0464",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0464",
+        "id_requisito": "CJE0508",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0508",
+        "id_requisito": "CJE0518",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0518",
+        "id_requisito": "CJE0591",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0591",
+        "id_requisito": "CJE0606",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0606",
+        "id_requisito": "CJE0609",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0609",
+        "id_requisito": "CJE0610",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0610",
+        "id_requisito": "CJE0615",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0615",
+        "id_requisito": "CJE0621",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0621",
+        "id_requisito": "CJE0622",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0622",
+        "id_requisito": "CJE0625",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0625",
+        "id_requisito": "CJE0626",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0626",
+        "id_requisito": "CJE0629",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0629",
+        "id_requisito": "CJE0636",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0636",
+        "id_requisito": "CJE0640",
+        "forca_requisito": "forte"
+    },
+    {
+        "codigo_curriculo": "27011",
+        "codigo_habilitacao": "302",
+        "id_disciplina": "CJE0640",
+        "id_requisito": "CJE0641",
+        "forca_requisito": "forte"
+    }
+]
