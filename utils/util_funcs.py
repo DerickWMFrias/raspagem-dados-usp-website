@@ -306,16 +306,3 @@ def cria_csvs():
     with open("outputs\\docentes_disciplina\\docentes_disciplina.csv", "w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow(["codigo_docentes", "codigo_disciplina"])
-
-
-
-def is_in_bad_links(lnk):
-    #bad_links = ["https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86400&codhab=202&tipo=N",
-    #             "https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86400&codhab=102&tipo=N"]
-    bad_links = ["not"]
-
-    if lnk in bad_links:
-        return True
-    
-    return False
-

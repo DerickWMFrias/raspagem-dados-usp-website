@@ -19,24 +19,19 @@ from utils.scrap_departamentos import scrape_depts, scrape_cursos
 
 mode = "depts"
 
-# Initialize WebDriver
-driver, page = start_selenium_drive("https://uspdigital.usp.br/jupiterweb/jupColegiadoLista?tipo=D")
+
+#Link Base: https://uspdigital.usp.br/jupiterweb/jupColegiadoLista?tipo=D"
+#Vindo do link base: https://uspdigital.usp.br/jupiterweb/jupDisciplinaBusca?tipo=D&codmnu=6755
+driver, page = start_selenium_drive("https://uspdigital.usp.br/jupiterweb/jupColegiadoLista?tipo=D") # Initialize WebDriver
 time.sleep(2)
 
 cria_csvs()
-
 lista_links_unidades = []
 
-tabela_institutos_usp = driver.find_element(By.XPATH, "(//div[@id='layout_conteudo']/table)[2]")
 
+tabela_institutos_usp = driver.find_element(By.XPATH, "(//div[@id='layout_conteudo']/table)[2]")
 rows_institutos_usp = tabela_institutos_usp.find_elements(By.TAG_NAME, "tr")
 rows_institutos_usp = rows_institutos_usp[1:]
-
-
-
-
-
-
 for row in rows_institutos_usp:
     tds_row = row.find_elements(By.TAG_NAME, "td")
     #print(f"{tds_row[0].text }: {tds_row[1].text}")
@@ -51,10 +46,10 @@ for row in rows_institutos_usp:
 
 
 
+
 tabela_entidades_externas = driver.find_element(By.XPATH, "(//div[@id='layout_conteudo']/table)[4]")
 rows_entidades_externas = tabela_entidades_externas.find_elements(By.TAG_NAME, "tr")
 rows_entidades_externas = rows_entidades_externas[1:]
-
 for row in rows_entidades_externas:
     tds_row = row.find_elements(By.TAG_NAME, "td")
     #print(f"{tds_row[0].text }: {tds_row[1].text}")
@@ -78,7 +73,6 @@ for row in lista_links_unidades:
     codigo_unidade = row[0]
     nome_unidade = row[1]
 
-    
     with open("outputs\\unidades\\unidades.csv", "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
         writer.writerow([codigo_unidade, nome_unidade])
@@ -92,11 +86,12 @@ for lk_unidade in lista_links_unidades:
     link_unidade = lk_unidade[2]
 
     if mode == "depts":
-        print("INDO RASPAR DEPARTAMENTOS\n")
+        print("Modo: raspar disciplinas por DEPARTAMENTOS\n")
         time.sleep(1)
         scrape_depts(driver, page, link_unidade, codigo_unidade)
+
     elif mode == "cursos":
-        print("INDO RASPAR CURSOS\n")
+        print("Modo: raspar disciplinas por CURSOS\n")
         time.sleep(1)
         scrape_cursos(driver, page, link_unidade, codigo_unidade)
     

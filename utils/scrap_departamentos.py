@@ -17,7 +17,7 @@ import time
 import requests
 
 
-from utils.util_funcs import get_href_selenium, scrape_extensao, scrape_objetivos, scrape_programa, scrape_avaliacao, is_in_bad_links
+from utils.util_funcs import get_href_selenium, scrape_extensao, scrape_objetivos, scrape_programa, scrape_avaliacao
 
 
 buffer_info_disciplinas = []
@@ -48,8 +48,10 @@ def scrape_infos_disciplina(driver, lnk_disciplina, codigo_departamento, codigo_
     print(f"Scrape_infos_disciplina: At link: {lnk_disciplina}\n")
     time.sleep(1)
 
+    #Link base: https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=ACH3867&verdis=1
+    
+    
     table_contents = driver.find_element(By.XPATH, "(//div[@id='layout_conteudo']/table)[1]")
-
     table_infos = table_contents.find_element(By.XPATH, ".//tbody/tr[4]/td/form/table[1]")
     tables = table_infos.find_elements(By.XPATH, ".//tbody/tr[1]/td/table")
 
@@ -194,13 +196,11 @@ def scrape_infos_disciplina(driver, lnk_disciplina, codigo_departamento, codigo_
     #print(f"        BIBI: {bibliografia_disciplina}\n\n")
 
 
-def scrape_pagina_disciplinas(driver, has_pag, link_pag, codigo_departamento, is_landing_page):
-    #print(f"scape_pagina_disciplinas: At link: {link_pag}")
-    #if has_pag:
+def scrape_pagina_disciplinas(driver, has_pag, link_pag, codigo_departamento, is_landing_page, link_at, link_base):
+    #Link base: https://uspdigital.usp.br/jupiterweb/jupDisciplinaLista?codcg=86&pfxdisval=ACH&tipo=D
     if not is_landing_page:
-        driver.get(link_pag)
-    time.sleep(1)
-
+        driver.get(link_pag) #Acessa links de paginação, mas todos tem o mesmo link base 
+        time.sleep(1)
 
     print(f"scape_pagina_disciplinas: At link: {link_pag}\n")
     table_disciplinas = []
@@ -209,6 +209,8 @@ def scrape_pagina_disciplinas(driver, has_pag, link_pag, codigo_departamento, is
         table_disciplinas = driver.find_element(By.XPATH, "//div[@id='layout_conteudo']/table[1]")
     except:
         print("PAGE HAS NULL CONTENT!!")
+        with open("badlinks.txt", "a", encoding="utf-8") as file:
+            file.write(f"Erro no Link {link_at}: ERRO INCOMUM!!! (Link base: {link_base})")
         return        
     
     if has_pag:
@@ -256,10 +258,15 @@ def scrape_depts(driver, page, lnk, codigo_unidade_CH_E):
     print(f"Scrape_depts: At link: {lnk}")
     time.sleep(1)
 
+    #Link base: https://uspdigital.usp.br/jupiterweb/jupColegiadoMenu.jsp?codcg=86&tipo=D&nomclg=Escola+de+Artes,+Ci%EAncias+e+Humanidades
+
+
     lnk_disciplinas_departamentos = get_href_selenium(driver, By.XPATH, "(//div[@id='layout_conteudo']/table)[3]/tbody/tr[3]")
     driver.get(lnk_disciplinas_departamentos)
     print(f"Scrape_depts: At link: {lnk_disciplinas_departamentos}")
     time.sleep(1)
+
+    #Link base: https://uspdigital.usp.br/jupiterweb/jupDepartamentoLista?codcg=86&tipo=D
 
 
     table_departamentos = []
@@ -267,6 +274,8 @@ def scrape_depts(driver, page, lnk, codigo_unidade_CH_E):
         table_departamentos = driver.find_element(By.XPATH, "(//div[@id='layout_conteudo']/table)[3]")
     except NoSuchElementException:
         print(f"Unidade {codigo_unidade_CH_E} não tem departamentos cadastrados!\n")
+        with open("badlinks.txt", "a", encoding="utf-8") as file:
+            file.write(f"Erro no Link {lnk_disciplinas_departamentos}: UNIDADE NÃO CONTÉM DEPARTAMENTOS (Link base: {lnk})")
         return  # Exit the function early
 
 
@@ -298,6 +307,8 @@ def scrape_depts(driver, page, lnk, codigo_unidade_CH_E):
 
     for data in departamento_data:
         driver.get(data[2])
+        #Link base: https://uspdigital.usp.br/jupiterweb/jupDisciplinaLista?codcg=86&pfxdisval=ACH&tipo=D
+
         print(f"Scrape_depts: Acessando lista disciplinas at link: {data[2]}")
         time.sleep(1)
 
@@ -306,6 +317,8 @@ def scrape_depts(driver, page, lnk, codigo_unidade_CH_E):
             first_td = driver.find_element(By.XPATH, "//div[@id='layout_conteudo']/table[1]/tbody/tr")
         except NoSuchElementException:
             print(f"Departamento {data[1]} não possui disciplinas associadas a ele")
+            with open("badlinks.txt", "a", encoding="utf-8") as file:
+                file.write(f"Erro no Link {data[2]}: DEPARTAMENTO NÃO CONTÉM DISCIPLINAS REGISTRADAS (Link base: {lnk_disciplinas_departamentos})")
             continue
         
 
@@ -325,12 +338,12 @@ def scrape_depts(driver, page, lnk, codigo_unidade_CH_E):
 
 
         #print("\n*****Acessando landing disciplina*****\n")
-        scrape_pagina_disciplinas(driver, has_pagination, data[2], data[0], True)#tem que pegar todas as disciplinas da pagina
+        scrape_pagina_disciplinas(driver, has_pagination, data[2], data[0], True, data[2], lnk_disciplinas_departamentos)#tem que pegar todas as disciplinas da pagina
 
         #time.sleep(5)
         for pag_link in pagination_links:
             #print("\n*****Acessando paginação disciplina*****\n")
-            scrape_pagina_disciplinas(driver, has_pagination, pag_link, data[0], False)
+            scrape_pagina_disciplinas(driver, has_pagination, pag_link, data[0], False, pag_link, lnk_disciplinas_departamentos)
             
 
 
@@ -483,15 +496,15 @@ def scrape_url_info_curso(url):
 
 
 
-def scrape_info_curso(driver, lnk, nome_habilitacao, periodo_habilitacao, codigo_unidade):
+def scrape_info_curso(driver, lnk, nome_habilitacao, periodo_habilitacao, codigo_unidade, link_base):
     driver.get(lnk)
+    #Link base: https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86551&codhab=200&tipo=N
+
     time.sleep(1)
+
     print(f"Scrape_info_curso: At link: {lnk}")
 
-    if is_in_bad_links(lnk):
-        print("THIS COURSE IS IN BAD_LINKS LIST! GO CHECK IT YOURSELF :)\n")
-        return
-
+    #Declare use of global variables
     global counter2
     global counter4
 
@@ -503,14 +516,16 @@ def scrape_info_curso(driver, lnk, nome_habilitacao, periodo_habilitacao, codigo
     global buffer_infos_especificas
     global buffer_requisitos
 
+
     tables_interesse = driver.find_elements(By.XPATH, "//div[@id='layout_conteudo']/table[1]/tbody/tr[4]/td/form/table/tbody/tr[1]/td/table")
 
-    print(f"FOUND {len(tables_interesse)} ELEMENTS!!")
+    #print(f"FOUND {len(tables_interesse)} ELEMENTS!!")
     #time.sleep(3)
     c = 1
     c_duracao_curso = 0
     c_infos_especificas = 0
     c_grade = 0
+
     for tables in tables_interesse:
         if tables.text.startswith("Data de"):   
             c_duracao_curso = c
@@ -526,7 +541,7 @@ def scrape_info_curso(driver, lnk, nome_habilitacao, periodo_habilitacao, codigo
     if not c_infos_especificas:
         print("BAD LINK FOUND!!\n")
         with open("badlinks.txt", "a", encoding="utf-8") as file:
-            file.write(f" {lnk}")
+            file.write(f"Erro no Link {lnk}: CORPO DA PÁGINA DESCRIÇÃO DO CURSO NÃO ENCONTRADO! (Link base: {link_base})")
         return
 
     table_duracao_ideal = driver.find_element(By.XPATH, f"//div[@id='layout_conteudo']/table[1]/tbody/tr[4]/td/form/table/tbody/tr[1]/td/table[{c_duracao_curso}]/tbody/tr[1]")
@@ -670,19 +685,28 @@ def scrape_info_curso(driver, lnk, nome_habilitacao, periodo_habilitacao, codigo
 
 def scrape_cursos(driver, page, lnk, codigo_unidade):
     driver.get(lnk)
+    #Link base: https://uspdigital.usp.br/jupiterweb/jupColegiadoMenu.jsp?codcg=86&tipo=D&nomclg=Escola+de+Artes,+Ci%EAncias+e+Humanidades
+
     print(f"Scrape_cursos: At link: {lnk}")
     time.sleep(1)
-
     lnk_cursos_habilitacoes_unidade = get_href_selenium(driver, By.XPATH, "(//div[@id='layout_conteudo']/table)[3]/tbody/tr[1]")
     print(f"Scrape_cursos: At link: {lnk_cursos_habilitacoes_unidade}")
-    driver.get(lnk_cursos_habilitacoes_unidade)
-    time.sleep(1)
 
+
+    driver.get(lnk_cursos_habilitacoes_unidade)
+    #Link base: https://uspdigital.usp.br/jupiterweb/jupCursoLista?codcg=86&tipo=N
+
+    time.sleep(1)
     table_cursos = []
+
     try:
         table_cursos = driver.find_element(By.XPATH, "//div[@id='layout_conteudo']/table[3]")
     except NoSuchElementException:
         print(f"Unidade {codigo_unidade} não tem cursos cadastrados!")
+
+        with open("badlinks.txt", "a", encoding="utf-8") as file:
+            file.write(f"Erro no Link {lnk_cursos_habilitacoes_unidade}: TABELA DE CURSOS NÃO ENCONTRADA! (Link base: {lnk})")
+
         return  # Exit the function early
     
 
@@ -692,9 +716,6 @@ def scrape_cursos(driver, page, lnk, codigo_unidade):
     curso_data = []
 
     for curso in rows_cursos:
-        #print("------------------------------------------------")
-        #print(curso.get_attribute("outerHTML"))
-        #print("------------------------------------------------\n\n")
         tds_curso = curso.find_elements(By.TAG_NAME, "td")
         nome_habilitacao = tds_curso[0].text #!
         periodo_habilitacao = tds_curso[1].text #!
@@ -707,11 +728,4 @@ def scrape_cursos(driver, page, lnk, codigo_unidade):
 
 
     for curso in curso_data:
-        scrape_info_curso(driver, curso[2], curso[0], curso[1], codigo_unidade)
-
-        #driver.get(lnk_cursos_habilitacoes_unidade)
-        #print(f"At link: {lnk_cursos_habilitacoes_unidade}")
-        #time.sleep(1)
-        
-
-
+        scrape_info_curso(driver, curso[2], curso[0], curso[1], codigo_unidade, lnk_cursos_habilitacoes_unidade)
